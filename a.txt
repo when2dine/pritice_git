@@ -3,3 +3,7 @@ second commitment
 
 third
 fourth
+
+void printHelloWorld(){
+cout<<"Hello World";
+}
